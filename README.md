@@ -1,5 +1,5 @@
 # Programming-Resources
-Repository containing various programming resources for learning new concepts
+This Repository contains various programming resources for learning new concepts.
 
 ## Aim
 Like to have various programming resources in one repo, so that anyone can get best material available for learning in no time
