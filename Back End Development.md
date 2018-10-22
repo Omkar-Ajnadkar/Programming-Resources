@@ -18,7 +18,7 @@ Back end development refers to the server side of an application and everything 
 
 ### Problems to Solve
 
-### Competation Platforms
+### Competition Platforms
 - [CodeChef](https://www.codechef.com)
 - [Kattis](https://open.kattis.com/)
 - [TopCoder](https://www.topcoder.com/)
