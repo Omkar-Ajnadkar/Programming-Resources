@@ -5,6 +5,10 @@ Java is a general-purpose, object oriented computer programming language, suppor
 
 - [Objects First with Java: A Practical Introduction Using BlueJ](https://www.amazon.com/gp/product/0134477367/)  by David J. Barnes and Michael Kolling 
 - a good link for basis of [Java](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/)
+- [How to Program : Early Objects](http://www.deitel.com/Books/Java/JavaHowtoProgram11e/tabid/3683/Default.aspx) by Deitel & Deitel
+- [Java in Action](https://www.manning.com/books/modern-java-in-action) by Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft
+- [Head First Java](https://www.oreilly.com/library/view/head-first-java/0596009208/) by Bert Bates, Kathy Sierra
+- [Big Java](http://horstmann.com/bigjava/index.html) by Cay Horstmann
 
 ### Online Courses(Free)
 
@@ -28,9 +32,13 @@ API Specification](https://docs.oracle.com/javase/8/docs/api/)
 ### Problems to Solve
 
 - [Java Programming Exercises](https://www.w3resource.com/java-tutorial/)
+- [Programming by Doing](https://programmingbydoing.com/)
+- [CodingBat](https://codingbat.com/java)
+- [Edabit](https://edabit.com/challenges/java)
 
-### Competation Platforms
+### Competition Platforms
 
 - [CodeChef](https://www.codechef.com)
 - [Kattis](https://open.kattis.com/)
 - [TopCoder](https://www.topcoder.com/)
+- [HackerRank](https://www.hackerrank.com/domains/java)
